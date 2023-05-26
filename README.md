@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code Repo](#)
-- Live Site URL: [Live site](#)
+- Live Site URL: [Live site](https://jgeev.github.io/product-preview-card-component-main/)
 
 ## My process
 
