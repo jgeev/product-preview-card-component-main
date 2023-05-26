@@ -1,0 +1,50 @@
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+h3 {
+  font-family: "Fraunces", serif;
+}
+p {
+  font-size: small;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.card-body {
+  color: hsl(228, 12%, 48%);
+  background-color: hsl(0, 0%, 100%);
+  font-family: "Montserrat", sans-serif;
+  border-radius: 20px;
+}
+.card-title {
+  color: hsl(212, 21%, 14%);
+}
+.discount {
+  color: hsl(158, 36%, 37%);
+  font-family: "Fraunces", serif;
+  display: inline-block;
+}
+.cardHeader {
+  letter-spacing: 5px;
+  font-size: small;
+}
+
+@media (max-width: 767px) {
+  img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 0px !important;
+  }
+}
+@media (min-width: 767px) {
+  img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 5px !important;
+  }
+}
